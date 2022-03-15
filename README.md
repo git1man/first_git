@@ -1,19 +1,31 @@
-1- What ’re the methods that you used ?
+# sprint1_task 3.md
 
-in range for creating a loop for certen amount of times
-i did use the method tuple
-and the random method was somthing new for me
-the function timeit was new to me and i didnt see it in c# even
-2- Explain each method ..
- tuple is samiler to a list it taks  vaمues and save it
- random for piking random values in a list weather it was a string or an integer
- timeit for Measuring the time of execution a few lines of code and it isnt good for Measuring the time in inter programe
-3- What’s new for you ?
-Q6 was new for me i didnt se one of them befor even in c#
-the frozensets was new for me 
+## 1- What ’re the methods that you used ?
 
-4- Resources ? 
-stack over flow
-w3resource
-w3schoole
-geeksfogeeks
+* for 
+* in range
+* define
+* return
+* if
+* import
+* datetime library
+
+## 2- Explain each method ..
+
+* for loop is used for iterating over a sequence
+* The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number
+* A function is a block of code which only runs when it is called
+* return a given value
+* if for setting a condition
+* import for importing a library
+* datetime library is a library that specialized in date and time
+
+## 3- What’s new for you ?
+
+* datetime library
+
+## 4- Resources ? 
+[w3schools](https://www.w3schools.com/)
+[stackoverflow](https://stackoverflow.com/)
+[geeksforgeeks](https://www.geeksforgeeks.org/)
+[github](https://github.com/)
