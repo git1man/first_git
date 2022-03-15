@@ -34,8 +34,8 @@
 
 ## 4- Resources ? 
 
-[w3schools](https://www.w3schools.com/)
-[stackoverflow](https://stackoverflow.com/)
-[geeksforgeeks](https://www.geeksforgeeks.org/)
-[github](https://github.com/) 
-[pandas](https://pandas.pydata.org/)
+### [w3schools](https://www.w3schools.com/)
+### [stackoverflow](https://stackoverflow.com/)
+### [geeksforgeeks](https://www.geeksforgeeks.org/)
+### [github](https://github.com/) 
+### [pandas](https://pandas.pydata.org/)

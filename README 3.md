@@ -25,7 +25,7 @@
 * datetime library
 
 ## 4- Resources ? 
-[w3schools](https://www.w3schools.com/)
-[stackoverflow](https://stackoverflow.com/)
-[geeksforgeeks](https://www.geeksforgeeks.org/)
-[github](https://github.com/)
+### [w3schools](https://www.w3schools.com/)
+### [stackoverflow](https://stackoverflow.com/)
+### [geeksforgeeks](https://www.geeksforgeeks.org/)
+### [github](https://github.com/)
